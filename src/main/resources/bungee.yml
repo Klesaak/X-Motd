@@ -1,0 +1,5 @@
+name: X-Motd
+version: '0.1'
+author: "Den_Abr"
+main: ua.klesaak.xmotd.XMotdPlugin
+description: "Simple bungee motd plugin."
